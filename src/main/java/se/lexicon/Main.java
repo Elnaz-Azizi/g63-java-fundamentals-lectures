@@ -1,6 +1,6 @@
 package se.lexicon;
 
-public class main {
+public class Main {
     void main() {
         MethodDemo.sayHello();
         MethodDemo.printSum(10, 5);

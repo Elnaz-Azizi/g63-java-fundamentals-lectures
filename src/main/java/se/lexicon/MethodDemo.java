@@ -26,10 +26,10 @@ public class MethodDemo {
         sayHello();
 
         // Calling a static method with arguments
-        MethodDemo.printSum(10, 5); // 10 and 5 are arguments
+        printSum(10, 5); // 10 and 5 are arguments
 
         // Calling a static method and storing the return value
-        int result = MethodDemo.multiply(4, 3);
+        int result = multiply(4, 3);
         IO.println("The multiplication result is: " + result);
     }
 }
