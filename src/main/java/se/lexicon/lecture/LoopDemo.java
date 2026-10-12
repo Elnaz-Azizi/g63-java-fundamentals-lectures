@@ -1,4 +1,4 @@
-package se.lexicon;
+package se.lexicon.lecture;
 
 public class LoopDemo {
     void main() {

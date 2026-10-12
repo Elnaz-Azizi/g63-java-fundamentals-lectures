@@ -1,4 +1,4 @@
-package se.lexicon; // 1. Package declaration
+package se.lexicon.lecture; // 1. Package declaration
 
 public class HelloWorld { // 2. Class definition
    /* public static void main(String[] args) { // 3. The Main method
