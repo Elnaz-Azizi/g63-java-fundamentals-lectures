@@ -1,4 +1,4 @@
-package se.lexicon.lecture;// Scenario: an e-commerce order is placed on a webshop
+package se.lexicon.lecture.part1;// Scenario: an e-commerce order is placed on a webshop
 
 public class OrderSummary {
     void main() {

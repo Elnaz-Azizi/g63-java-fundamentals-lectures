@@ -1,4 +1,4 @@
-package se.lexicon.lecture;
+package se.lexicon.lecture.part1;
 
 public class StringDemo {
     void main() {

@@ -1,4 +1,4 @@
-package se.lexicon.lecture;
+package se.lexicon.lecture.part1;
 
 // 2. Use the Blueprint to create Objects
 public class PersonDemo {

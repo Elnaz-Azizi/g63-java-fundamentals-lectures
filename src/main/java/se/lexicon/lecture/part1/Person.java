@@ -1,4 +1,4 @@
-package se.lexicon.lecture;
+package se.lexicon.lecture.part1;
 
 // 1. Define the Blueprint (Class)
 class Person {
